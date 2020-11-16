@@ -1,0 +1,10 @@
+#gallery {
+  display: flex;
+}
+img {
+  height: 250px;
+  margin: 10px;
+}
+li {
+  list-style: none;
+}
