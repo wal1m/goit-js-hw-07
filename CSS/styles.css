@@ -1,6 +1,9 @@
 #gallery {
   display: flex;
 }
+div {
+  margin: 15px;
+}
 img {
   height: 250px;
   margin: 10px;
