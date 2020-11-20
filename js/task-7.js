@@ -3,6 +3,3 @@ let spanRef = document.querySelector('#text');
 inputValueRef.addEventListener('input', () => {
   spanRef.style.fontSize = `${inputValueRef.value}px`;
 });
-
-console.dir(inputValueRef.value);
-console.log(spanRef);
